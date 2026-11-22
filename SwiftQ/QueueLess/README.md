@@ -1,4 +1,4 @@
-# QueueLess – Smart Campus Queue Management System
+# SwiftQ – Smart Campus Queue Management System
 
 A console-based Core Java project for managing student queues at college service counters. This upgraded version keeps the original Student, Staff and Admin modules and adds persistent file storage, staff account creation, and beginner-friendly multithreading demonstrations.
 
